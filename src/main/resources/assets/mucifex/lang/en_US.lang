@@ -1,0 +1,6 @@
+# Key Categories
+key.categories.mucifex=Mucifex Controls
+ 
+# Key Bindings
+key.mucifex.unfocus=Toggle Unfocus Mode
+key.mucifex.showinfo=Show Socket Information 

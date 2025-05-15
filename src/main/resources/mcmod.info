@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mucifex",
+  "name": "Mucifex",
+  "description": "External communication mod for Minecraft that allows controlling the player via sockets",
+  "version": "2.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Charlie, you can find me on discord at mechanical_artisan"],
+  "credits": "list3 for some good pathfinding references",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+] 
